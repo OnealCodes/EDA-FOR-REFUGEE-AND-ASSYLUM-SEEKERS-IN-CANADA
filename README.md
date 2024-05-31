@@ -28,5 +28,7 @@ UNHCR-refugees and asylum-seekers are weakly correlated, suggesting that countri
 
 #### INSIGHTS
 Increasing Trends: Both the number of UNHCR refugees and asylum seekers in Canada have steadily increased from 2012 to 2022.
+
 Higher Refugee Numbers: The number of UNHCR refugees has consistently been higher than the number of asylum seekers each year.
+
 Parallel Growth: The similar growth patterns suggest that factors affecting one group also impact the other.
